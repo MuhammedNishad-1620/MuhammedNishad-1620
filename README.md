@@ -40,25 +40,25 @@ Currently open to **AI Engineering roles** where I can work on LLM pipelines, AI
 
 ## Featured Projects
 
-### 🔍 [Drug & Medicine Assistant](https://github.com/mnishad/drug-assistant)
+### 🔍 [Drug & Medicine Assistant](https://github.com/MuhammedNishad-1620/drug-rag-assistant)
 RAG pipeline for medical Q&A using LangChain, FAISS, Groq Llama 3, and Tavily web search fallback. Deployed on Streamlit Cloud.
 `LangChain` `FAISS` `Groq` `Tavily` `Streamlit`
 
 ---
 
-### 🗄️ [Graph-Based NL Query System](https://github.com/mnishad/graph-query-system)
+### 🗄️ [Graph-Based NL Query System](https://github.com/MuhammedNishad-1620/Graph_Based_Data_Modeling-Query_System)
 Natural language interface over SAP O2C enterprise data in Neo4j. LLM-powered Cypher query generation with domain guardrails and a Cytoscape.js visualization UI. Deployed on Render.
 `Neo4j` `LangChain` `Flask` `Cytoscape.js` `Render`
 
 ---
 
-### ✈️ TravelWAI — Agentic Travel Planner
+### ✈️ [TravelWAI — Agentic Travel Planner](https://github.com/MuhammedNishad-1620/drug-rag-assistant)
 AI travel agent with multi-step planning, web search integration, and itinerary generation using LangGraph and Groq.
 `LangGraph` `Groq` `Agentic AI`
 
 ---
 
-### 🚑 Smart Ambulance Triage System
+### 🚑 [Smart Ambulance Triage System](https://github.com/MuhammedNishad-1620/Smart_ambulance)
 PyTorch LSTM Autoencoder trained on synthetic physiological time-series to prioritize patient transport urgency.
 `PyTorch` `LSTM` `Autoencoder` `Synthetic Data`
 
@@ -66,7 +66,7 @@ PyTorch LSTM Autoencoder trained on synthetic physiological time-series to prior
 
 ## Currently
 
-- 🔭 Deepening expertise in **hallucination control**, **LLM evaluation**, and **CNN/Transformer architectures**
+- 🔭 Deepening expertise in **hallucination control**, **LLM evaluation**, and **Transformer architectures**
 - 📖 Reading: *Designing ML Systems* by Chip Huyen
 - 💼 Actively looking for AI Engineering opportunities
 
@@ -75,7 +75,7 @@ PyTorch LSTM Autoencoder trained on synthetic physiological time-series to prior
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammednishad1620/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://github.com/MuhammedNishad-1620.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://github.com/MuhammedNishad-1620/MuhammedNishad-1620)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhammednishad1620@gmail.com)
 
 ---
