@@ -66,7 +66,7 @@ PyTorch LSTM Autoencoder trained on synthetic physiological time-series to prior
 
 ## Currently
 
-- 🔭 Deepening expertise in **hallucination control**, **LLM evaluation**, and **Transformer architectures**
+- 🔭 Deepening expertise in **Hallucination control**, **LLM evaluation**, and **Transformer architectures**
 - 📖 Reading: *Designing ML Systems* by Chip Huyen
 - 💼 Actively looking for AI Engineering opportunities
 
