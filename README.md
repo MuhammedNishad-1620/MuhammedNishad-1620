@@ -65,9 +65,7 @@ A PyTorch LSTM Autoencoder trained on synthetic physiological time-series data (
 
 ## 💼 Experience
 
-- **AI Research Intern** — SeraphGuard Labs
-- **Data Science Intern** — Analytics Vidhya
-- **ML Engineering Intern** — Techciti Technologies
+- **AI Research Intern** — SeraphGuard Labs  *(Jan 2026 – Apr 2026)*
 
 ---
 
