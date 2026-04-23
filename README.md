@@ -52,7 +52,7 @@ Natural language interface over SAP O2C enterprise data in Neo4j. LLM-powered Cy
 
 ---
 
-### ✈️ [TravelWAI — Agentic Travel Planner](https://github.com/MuhammedNishad-1620/drug-rag-assistant)
+### ✈️ [TravelWAI — Agentic Travel Planner](https://github.com/MuhammedNishad-1620/AI/tree/main/TravelWAI)
 AI travel agent with multi-step planning, web search integration, and itinerary generation using LangGraph and Groq.
 `LangGraph` `Groq` `Agentic AI`
 
