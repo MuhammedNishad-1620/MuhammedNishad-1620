@@ -19,10 +19,12 @@ I build **production-grade AI systems** — not demos. My work spans LLM pipelin
 | Area | Tools & Technologies |
 |---|---|
 | **LLM & Agents** | LangChain, LangGraph, LlamaIndex, Groq, OpenAI API, Hugging Face |
-| **ML & Deep Learning** | PyTorch, Transformers, BERT, YOLOv8, LSTM |
-| **Data & Infra** | FAISS, Neo4j, MongoDB, Docker, AWS, RabbitMQ |
-| **Languages & Tools** | Python, FastAPI, Flask, Streamlit, SQL, Git |
-
+| **ML & Deep Learning** | PyTorch, TensorFlow, Transformers, BERT, YOLOv8, LSTM, Fine-tuning |
+| **Machine Learning & Analytics** | Machine Learning, EDA, Statistical Analysis, Feature Engineering, Predictive Modeling, Regression, Clustering, NLP, Deep Learning, RAG |
+| **Generative AI & Data Engineering** | Transformer Architecture, Embeddings, Tokenization, ETL Pipelines, Data Modeling, Apache Airflow, PySpark, Vector Database |
+| **Data & Infra** | FAISS, Neo4j, MongoDB, Docker, AWS (EC2, S3, VPC, Glue), RabbitMQ |
+| **Languages & Tools** | Python, SQL, Pandas, NumPy, Scikit-learn, FastAPI, Flask, Streamlit, REST APIs, Git |
+ 
 ---
 
 ## 🚀 Featured Projects
